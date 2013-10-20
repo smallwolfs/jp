@@ -1,4 +1,3 @@
-jp
-==
-
-język programowania
+#Notatka z Labaratorium
+```sh
+mkdir katalog
