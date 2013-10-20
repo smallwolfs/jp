@@ -1,7 +1,9 @@
 #Notatka z Labaratorium
 ```sh
 mkdir katalog
+``` 
 
-```
-int main()
+```c
+int main ()
 return 0 :
+```
